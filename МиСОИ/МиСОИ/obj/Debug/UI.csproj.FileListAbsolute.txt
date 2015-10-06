@@ -1,0 +1,25 @@
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\МиСОИ\bin\Debug\МиСОИ.exe.config
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\МиСОИ\bin\Debug\МиСОИ.exe
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\МиСОИ\bin\Debug\МиСОИ.pdb
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\МиСОИ\bin\Debug\Filters.dll
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\МиСОИ\bin\Debug\Filters.pdb
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\МиСОИ\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\МиСОИ\obj\Debug\МиСОИ.Form1.resources
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\МиСОИ\obj\Debug\МиСОИ.Properties.Resources.resources
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\МиСОИ\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\МиСОИ\obj\Debug\МиСОИ.exe
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\МиСОИ\obj\Debug\МиСОИ.pdb
+C:\Users\finti_000\Documents\GitHub\MiSOI\МиСОИ\МиСОИ\bin\Debug\МиСОИ.exe.config
+C:\Users\finti_000\Documents\GitHub\MiSOI\МиСОИ\МиСОИ\obj\Debug\МиСОИ.exe
+C:\Users\finti_000\Documents\GitHub\MiSOI\МиСОИ\МиСОИ\obj\Debug\МиСОИ.pdb
+D:\Git\MiSOI\МиСОИ\МиСОИ\bin\Debug\МиСОИ.exe.config
+D:\Git\MiSOI\МиСОИ\МиСОИ\obj\Debug\МиСОИ.exe
+D:\Git\MiSOI\МиСОИ\МиСОИ\obj\Debug\МиСОИ.pdb
+D:\Git\MiSOI\МиСОИ\МиСОИ\bin\Debug\МиСОИ.exe
+D:\Git\MiSOI\МиСОИ\МиСОИ\bin\Debug\МиСОИ.pdb
+D:\Git\MiSOI\МиСОИ\МиСОИ\bin\Debug\Filters.dll
+D:\Git\MiSOI\МиСОИ\МиСОИ\bin\Debug\Filters.pdb
+D:\Git\MiSOI\МиСОИ\МиСОИ\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Git\MiSOI\МиСОИ\МиСОИ\obj\Debug\МиСОИ.Form1.resources
+D:\Git\MiSOI\МиСОИ\МиСОИ\obj\Debug\МиСОИ.Properties.Resources.resources
+D:\Git\MiSOI\МиСОИ\МиСОИ\obj\Debug\UI.csproj.GenerateResource.Cache

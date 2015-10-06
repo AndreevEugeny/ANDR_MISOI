@@ -1,0 +1,15 @@
+C:\Users\finti_000\Documents\GitHub\EPAM.Lab.Homework\МиСОИ\Filters\bin\Debug\Filters.dll
+C:\Users\finti_000\Documents\GitHub\EPAM.Lab.Homework\МиСОИ\Filters\bin\Debug\Filters.pdb
+C:\Users\finti_000\Documents\GitHub\EPAM.Lab.Homework\МиСОИ\Filters\obj\Debug\Filters.csprojResolveAssemblyReference.cache
+C:\Users\finti_000\Documents\GitHub\EPAM.Lab.Homework\МиСОИ\Filters\obj\Debug\Filters.dll
+C:\Users\finti_000\Documents\GitHub\EPAM.Lab.Homework\МиСОИ\Filters\obj\Debug\Filters.pdb
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\Filters\bin\Debug\Filters.dll
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\Filters\bin\Debug\Filters.pdb
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\Filters\obj\Debug\Filters.dll
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\Filters\obj\Debug\Filters.pdb
+C:\Users\finti_000\Documents\Visual Studio 2013\Projects\МиСОИ\Filters\obj\Debug\Filters.csprojResolveAssemblyReference.cache
+D:\Git\MiSOI\МиСОИ\Filters\bin\Debug\Filters.dll
+D:\Git\MiSOI\МиСОИ\Filters\bin\Debug\Filters.pdb
+D:\Git\MiSOI\МиСОИ\Filters\obj\Debug\Filters.csprojResolveAssemblyReference.cache
+D:\Git\MiSOI\МиСОИ\Filters\obj\Debug\Filters.dll
+D:\Git\MiSOI\МиСОИ\Filters\obj\Debug\Filters.pdb

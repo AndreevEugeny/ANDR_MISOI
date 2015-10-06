@@ -1,0 +1,9 @@
+C:\Users\finti_000\Documents\GitHub\EPAM.Lab.Homework\МиСОИ\МиСОИ\bin\Debug\МиСОИ.exe.config
+C:\Users\finti_000\Documents\GitHub\EPAM.Lab.Homework\МиСОИ\МиСОИ\bin\Debug\МиСОИ.exe
+C:\Users\finti_000\Documents\GitHub\EPAM.Lab.Homework\МиСОИ\МиСОИ\bin\Debug\МиСОИ.pdb
+C:\Users\finti_000\Documents\GitHub\EPAM.Lab.Homework\МиСОИ\МиСОИ\obj\Debug\МиСОИ.csprojResolveAssemblyReference.cache
+C:\Users\finti_000\Documents\GitHub\EPAM.Lab.Homework\МиСОИ\МиСОИ\obj\Debug\МиСОИ.Form1.resources
+C:\Users\finti_000\Documents\GitHub\EPAM.Lab.Homework\МиСОИ\МиСОИ\obj\Debug\МиСОИ.Properties.Resources.resources
+C:\Users\finti_000\Documents\GitHub\EPAM.Lab.Homework\МиСОИ\МиСОИ\obj\Debug\МиСОИ.csproj.GenerateResource.Cache
+C:\Users\finti_000\Documents\GitHub\EPAM.Lab.Homework\МиСОИ\МиСОИ\obj\Debug\МиСОИ.exe
+C:\Users\finti_000\Documents\GitHub\EPAM.Lab.Homework\МиСОИ\МиСОИ\obj\Debug\МиСОИ.pdb
